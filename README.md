@@ -7,3 +7,4 @@
 1. [Stance Detection](https://github.com/saaltech/saal-datascience-stance-detection/tree/develop)
 1. [Voice Score](https://github.com/saaltech/saal-datascience-voice-score/tree/develop)
 1. [Science Knowledge Graph](https://github.com/saaltech/saal-datascience-science-knowledge-graph/tree/develop)
+1. [Rumour Eval](https://github.com/saaltech/saal-datascience-rumour-eval/tree/dev)
